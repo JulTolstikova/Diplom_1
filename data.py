@@ -1,0 +1,5 @@
+BUN_NAME = "spinach"
+BUN_PRICE = 100
+INGRIDIENT_TYPE = "sauce"
+INGRIDIENT_NAME = "ketchup"
+INGRIDIENT_PRICE = 50
